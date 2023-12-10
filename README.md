@@ -2,7 +2,7 @@
 
 ---
 
-**A note-taking application that allows users to create individualized notes using a visally appealing template..**
+**A note-taking application that allows users to create individualized notes using a visually appealing template**
 
 ---
 
